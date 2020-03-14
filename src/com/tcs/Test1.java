@@ -18,5 +18,12 @@ public class Test1 {
 		} else {
 			System.out.println("implement it.......");
 		}
+		
+		String dev="complete";
+		if (dev == "complete") {
+			System.out.println("Write Test Case.........");
+		} else {
+			System.out.println("Develope the Code.......");
+		}
 	}
 }
